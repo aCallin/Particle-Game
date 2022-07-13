@@ -1,0 +1,4 @@
+This project uses the following:
+	- "CSFML" from https://www.sfml-dev.org/download/csfml/
+		*This has been modified to silence deprecated code warnings for code that isn't being used*
+	- "8 Bit Operator Font" from https://www.1001freefonts.com/8-bit-operator.font
